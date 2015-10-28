@@ -1,2 +1,2 @@
-# rotational-inertia
-Classes for exploring the rotational inertia of masses about an axis
+# simulation
+Classes for performing simple simulations, typically for physics modeling
